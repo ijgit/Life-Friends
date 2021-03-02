@@ -23,11 +23,6 @@
 
 <br>
 
-### Overall
-
-<br>
-
-
 ### 구성요소
 
 1. **LoRa Server**: 백승우
