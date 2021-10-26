@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feedback App</string>
+    <string name="textview_about">oneM2MApp Feedback application</string>
+    <string name="btn_retrieve">Retrieve Data</string>
+    <string name="title">oneM2M application for Android</string>
+    <string name="btn_switch">MQTT ON</string>
+    <string name="mobius_address">203.253.128.161</string>
+    <string name="addr_unset">Connect</string>
+    <string name="addr_set">Disconnect</string>
+</resources>
